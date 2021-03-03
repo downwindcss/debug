@@ -10,6 +10,7 @@
     "dist",
     "src"
   ],
+  "repository": "https://github.com/downwindcss/debug",
   "engines": {
     "node": ">=10"
   },
